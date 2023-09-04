@@ -1,0 +1,3 @@
+/home/reveck/CLionProjects/ColorPicking/cmake-build-debug/CMakeFiles/ColorPicking.dir
+/home/reveck/CLionProjects/ColorPicking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reveck/CLionProjects/ColorPicking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

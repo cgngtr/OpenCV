@@ -1,0 +1,12 @@
+# ninja log v5
+2134	2283	1689689589505388711	ColorPicking	5e1d47e7beddf021
+1	13	1689683599668729859	CMakeFiles/ColorPicking.dir/main.cpp.o	db46d9dd671b80fd
+1	2134	1689689589361388318	CMakeFiles/ColorPicking.dir/trial.cpp.o	68a62c772c1d5b90
+1	13	1689684275023025281	CMakeFiles/ColorPicking.dir/RGB2HSV.cpp.o	44d4c68c96e28d0d
+1	13	1689683613888543651	CMakeFiles/ColorPicking.dir/HSVCalculator.cpp.o	d0b5aa068a89af22
+2	16	1693846269956890197	CMakeFiles/ColorPicking.dir/HSVCalculator.cpp.o	d21a95fb8455f798
+2	16	1693846269956890197	CMakeFiles/ColorPicking.dir/RGB2HSV.cpp.o	78459c66cf322a61
+1	18	1693846269960890260	CMakeFiles/ColorPicking.dir/main.cpp.o	80dacfd938353f49
+1	14	1693846300453372699	CMakeFiles/ColorPicking.dir/trial.cpp.o	e621519084c7240f
+1	2035	1693846302473404346	CMakeFiles/ColorPicking.dir/main.cpp.o	80dacfd938353f49
+2035	2264	1693846302701407915	ColorPicking	5e1d47e7beddf021

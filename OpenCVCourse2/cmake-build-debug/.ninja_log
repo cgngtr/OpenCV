@@ -1,0 +1,12 @@
+# ninja log v5
+1	13	1689248072538572912	CMakeFiles/opencvTest.dir/Chapter6.cpp.o	b24ccfcfc46e1a76
+1	1095	1689430222783787319	CMakeFiles/opencvTest.dir/Project3.cpp.o	fc56e3cc55f09571
+1	13	1689239284124019211	CMakeFiles/opencvTest.dir/Chapter5.cpp.o	932622492492e24d
+0	21	1689442183189940257	build.ninja	2e2845c72140cb09
+1	14	1689325962341474350	CMakeFiles/opencvTest.dir/ColorPicker.cpp.o	1d5f6629ecaca3c9
+1	12	1689237617570278143	CMakeFiles/opencvTest.dir/Chapter3.cpp.o	92f1b55f61ceb9bf
+1095	1268	1689430222955789025	opencvTest	d6a4a395cc318366
+1	29	1689429969701301840	CMakeFiles/opencvTest.dir/Chapter7.cpp.o	88bc332e274e5d2
+1	13	1689231223470496837	CMakeFiles/opencvTest.dir/Chapter2.cpp.o	1a4ab04d478263b7
+1	13	1689173671434931579	CMakeFiles/opencvTest.dir/main.cpp.o	e04d6b288e35042b
+2	29	1689429969701301840	CMakeFiles/opencvTest.dir/Project1.cpp.o	f05694e0ad353336

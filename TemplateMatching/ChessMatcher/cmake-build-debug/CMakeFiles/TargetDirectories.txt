@@ -1,0 +1,3 @@
+/home/reveck/CLionProjects/TemplateMatching/ChessMatcher/cmake-build-debug/CMakeFiles/ChessMatcher.dir
+/home/reveck/CLionProjects/TemplateMatching/ChessMatcher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reveck/CLionProjects/TemplateMatching/ChessMatcher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
